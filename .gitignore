@@ -2,3 +2,4 @@
 my-sql-env/
 
 *.ipynb
+*.env
