@@ -1,11 +1,17 @@
 # Chat with Your Database using Natural Language
 
+
+
+https://github.com/sanji77th/sql-natural-language-query-RAG-app/assets/42697893/c9d3a26b-e90e-4a78-a78f-9a9970773ff2
+
+
+
 ## Problem:
 Data analysts and anyone working with databases frequently rely on writing SQL queries, which can be time-consuming and require familiarity with the specific syntax.
 For those less comfortable with SQL, the process can be cumbersome, hindering data exploration and analysis.
 
 ## Solution:
-RAG simplify database interaction by enabling you to chat with your database using natural language. This intuitive approach empowers you to:
+RAG simplifies database interaction by enabling you to chat with your database using natural language. This intuitive approach empowers you to:
 - Formulate queries in a conversational manner, similar to how you'd talk to a colleague.
 - Simplify data exploration and analysis, saving valuable time and reducing the learning curve for SQL.
 
@@ -17,7 +23,7 @@ RAG simplify database interaction by enabling you to chat with your database usi
 
 ## Tech Stack:
 - Python (Core programming language)
-- Streamlit (Web framework for building the user interface)
+- Streamlight (Web framework for building the user interface)
 - MySQL (Supported database)
 - Langchain (Optional: NLP library for advanced language understanding)
 - Google Generative AI (Optional: NLP library for even more advanced language processing)
