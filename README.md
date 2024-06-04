@@ -23,13 +23,13 @@ RAG simplify database interaction by enabling you to chat with your database usi
 - Google Generative AI (Optional: NLP library for even more advanced language processing)
 
 ## Installation:
-- Clone this repository: git clone [https://github.com/your-username/rag.git](https://github.com/sanji77th/sql-natural-language-query-RAG-app)
+- Clone this repository: git clone [here](https://github.com/sanji77th/sql-natural-language-query-RAG-app)
 - Navigate to the project directory 
 - Install dependencies: pip install -r requirements.txt 
 
 ## Usage:
 - Start the application: python app.py.
-- Access the application in your web browser at [http://localhost:8501 (default Streamlit port)](https://sql-natural-language-query-rag-app.streamlit.app/).
+- Access the application in your web browser at [streamlit cloud](https://sql-natural-language-query-rag-app.streamlit.app/).
 
 ## Further Development:
 - Enhance natural language understanding capabilities by incorporating more advanced NLP techniques or leveraging pre-trained models.
